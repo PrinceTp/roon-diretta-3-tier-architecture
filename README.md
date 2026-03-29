@@ -21,6 +21,9 @@ Roon Core → Network → Diretta Host → Diretta Target → DAC
 * **Network isolation and tuning configuration**
 
 ---
+## Detailed Introduction
+
+[Intro](./Intro.md)
 
 ## Setup Guide
 
